@@ -1,0 +1,2 @@
+# comptest
+After static 
